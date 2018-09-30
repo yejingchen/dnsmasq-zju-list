@@ -3,7 +3,8 @@ dnsmasq-zju-list
 
 Configurations for your favorite DNS server to forward domains in Zhejiang
 University to zju's DNS server. Originated from `felixonmars/dnsmasq-china-list 
-<https://github.com/felixonmars/dnsmasq-china-list>`_.
+<https://github.com/felixonmars/dnsmasq-china-list>`_. Pull requests and issues
+are welcomed.
 
 Currently supports:
 
